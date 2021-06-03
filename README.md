@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🌱 My name is Miguel, I am a **Software Engineer**(especializing on **Android Development**) pursuing my Bachelors on **Computer Science & Engineering.**
+🌱 My name is Miguel, I am a **Software Engineer**(specializing on **Android Development**) pursuing my Bachelors on **Computer Science & Engineering.**
 
-🔭 I am really passionate and enusiatic about technologies. I have been coding small, medium and big projects. I am always on the mood of learning something. That brings me happyness.
+🔭 I am really passionate and enthusiastic about technology. I have been coding small, medium and big projects. I am always in the mood of learning something. That brings me happiness.
 
-:guitar: Outside of the world of technologies. I like to play guitar, videos games, basketball and soccer. 
+:guitar: Outside of the world of technologies. I like to play guitar, video games, basketball and soccer. 
 
-⚡ I like reading books, especially about mistery one of my favorites ones is the novel *The long walk* by Stephen King. 
+⚡ I like reading books, especially about mystery. One of my favorites is the novel *The Long Walk* by Stephen King. 
 
-:beach_umbrella: I love traveling and go to somewhere new. My last trip was to Denmark to the KotlinConf 2019.  
+:beach_umbrella: I love traveling and going somewhere new. My last trip was to Denmark for the KotlinConf 2019.  
 
 :pencil2: I enjoy to be part of the Hacktoberfest
 
