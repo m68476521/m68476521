@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 My name is Miguel, I am a **Software Engineer**(specializing on **Android Development**) pursuing my Bachelors on **Computer Science & Engineering.**
+🌱 My name is Miguel, I am a **Software Engineer** specializing on **Android Development** and I hold a Bachelor's degree in Computer Science.
 
 🔭 I am really passionate and enthusiastic about technology. I have been coding small, medium and big projects. I am always in the mood of learning something. That brings me happiness.
 
@@ -8,7 +8,7 @@
 
 ⚡ I like reading books, especially about mystery. One of my favorites is the novel *The Long Walk* by Stephen King. 
 
-:beach_umbrella: I love traveling and going somewhere new. My last trip was to Denmark for the KotlinConf 2019.  
+:beach_umbrella: I love traveling and going somewhere new.
 
 :pencil2: I enjoy to be part of the Hacktoberfest
 
@@ -19,10 +19,12 @@
 ![kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### IDE 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 🖥️ OS 
+![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 ## 📈 Stats
