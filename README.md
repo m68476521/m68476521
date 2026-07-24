@@ -17,7 +17,7 @@
 
 Senior Android Engineer with 10+ years building production mobile apps
 
-I specialize in **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**, with a strong focus on clean, scalable architecture and performance. Currently building Android and KMP SDKs at Bolt with AI-assisted development tooling.
+I specialize in **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**, with a strong focus on clean, scalable architecture and performance. Currently building Android and KMP SDKs with AI-assisted development tooling.
 
 Beyond mobile, I enjoy configuring local AI infrastructure (running local LLMs via Ollama) and managing homelab/media environments using Ubuntu and Docker.
 
